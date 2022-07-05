@@ -1,0 +1,15 @@
+.table {
+  margin:  0 auto;
+  width: 350px;
+  color: fuchsia;
+}
+
+.table_inner {
+  width: 300px;
+  margin:  0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: blueviolet;
+  margin: 20px 0;
+}
